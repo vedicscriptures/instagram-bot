@@ -5,7 +5,7 @@ for ch in range(1,19):
 		data = fin.read()
 		data = data.replace('https://docs.bhagavadgitaapi.in/', 'https://bhagavadgitaapi.in/')
 		fin.close()
-		fin = open("README.md", "wt")
+		fin = open(f"./{ch}/{sl}/README.md", "wt")
 		fin.write(data)
 		fin.close()
 		print(f"./{ch}/{sl}/README.md")
