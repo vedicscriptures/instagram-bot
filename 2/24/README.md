@@ -3,4 +3,4 @@
 <h3>अच्छेद्योऽयमदाह्योऽयमक्लेद्योऽशोष्य एव च |<br/>नित्यः सर्वगतः स्थाणुरचलोऽयं सनातनः ||२-२४||</h3>
 <pre>acchedyo.ayamadāhyo.ayamakledyo.aśoṣya eva ca .<br/>nityaḥ sarvagataḥ sthāṇuracalo.ayaṃ sanātanaḥ ||2-24||</pre>
 <p>।।2.24।। क्योंकि यह आत्मा अच्छेद्य (काटी नहीं जा सकती),  अदाह्य (जलाई नहीं जा सकती),  अक्लेद्य (गीली नहीं हो सकती ) और अशोष्य (सुखाई नहीं जा सकती) है;  यह नित्य,  सर्वगत,  स्थाणु (स्थिर),  अचल और सनातन है।।</p>
-<pre>(Bhagavad Gita, Chapter 2, Shloka 24) || @BhagavadGitaApi</pre><p>https://docs.bhagavadgitaapi.in/</p><p>#API #bhagavadgitaapi #slok #nodejs #js #api #gitaapi #krishna #hinduism #vedic #ISKCON #shreemadbhagavadgita #technology</p></center>
+<pre>(Bhagavad Gita, Chapter 2, Shloka 24) || @BhagavadGitaApi</pre><p>https://bhagavadgitaapi.in/</p><p>#API #bhagavadgitaapi #slok #nodejs #js #api #gitaapi #krishna #hinduism #vedic #ISKCON #shreemadbhagavadgita #technology</p></center>

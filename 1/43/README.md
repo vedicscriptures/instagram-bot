@@ -3,4 +3,4 @@
 <h3>दोषैरेतैः कुलघ्नानां वर्णसङ्करकारकैः |<br/>उत्साद्यन्ते जातिधर्माः कुलधर्माश्च शाश्वताः ||१-४३||</h3>
 <pre>doṣairetaiḥ kulaghnānāṃ varṇasaṅkarakārakaiḥ .<br/>utsādyante jātidharmāḥ kuladharmāśca śāśvatāḥ ||1-43||</pre>
 <p>।।1.43।।इन वर्णसंकर कारक दोषों से कुलघाती दोषों से सनातन कुलधर्म और जातिधर्म नष्ट हो जाते हैं।</p>
-<pre>(Bhagavad Gita, Chapter 1, Shloka 43) || @BhagavadGitaApi</pre><p>https://docs.bhagavadgitaapi.in/</p><p>#API #bhagavadgitaapi #slok #nodejs #js #api #gitaapi #krishna #hinduism #vedic #ISKCON #shreemadbhagavadgita #technology</p></center>
+<pre>(Bhagavad Gita, Chapter 1, Shloka 43) || @BhagavadGitaApi</pre><p>https://bhagavadgitaapi.in/</p><p>#API #bhagavadgitaapi #slok #nodejs #js #api #gitaapi #krishna #hinduism #vedic #ISKCON #shreemadbhagavadgita #technology</p></center>
