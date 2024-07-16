@@ -1,7 +1,7 @@
 # slok=[47,72,43,42,29,47,30,28,34,42,55,20,35,27,20,24,28,78]
 # for ch in range(1,19):
 #     for sl in range(1,1+slok[ch-1]): 
-#           print(f'curl "https://bhagavadgitaapi.in/gita.svg?api_key={{apikey}}&ch={ch}&sl={sl}" -o "BG_{ch}_{sl}.svg"')
+#           print(f'curl "https://vedicscriptures.github.io/gita.svg?api_key={{apikey}}&ch={ch}&sl={sl}" -o "BG_{ch}_{sl}.svg"')
 
 import asyncio
 from pyppeteer import launch

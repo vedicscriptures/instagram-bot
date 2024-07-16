@@ -3,7 +3,7 @@ for ch in range(1,19):
 	for sl in range(1,1+slok[ch-1]):	
 		fin = open(f"./{ch}/{sl}/README.md", "rt")
 		data = fin.read()
-		data = data.replace('https://docs.bhagavadgitaapi.in/', 'https://bhagavadgitaapi.in/')
+		data = data.replace('https://vedicscriptures.github.io/', 'https://vedicscriptures.github.io/')
 		fin.close()
 		fin = open(f"./{ch}/{sl}/README.md", "wt")
 		fin.write(data)
